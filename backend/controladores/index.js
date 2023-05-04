@@ -1,3 +1,3 @@
 module.exports = {
-    'Transaccion' : require('./trans')
+    'Transaccion' :  require('./trans')
 }

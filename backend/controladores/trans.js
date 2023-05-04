@@ -1,2 +1,2 @@
-const { response } = require('express')
+const { response } = require('express');
 const { Transaccion } = require('../modelos')

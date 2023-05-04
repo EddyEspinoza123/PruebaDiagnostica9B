@@ -1,4 +1,4 @@
-const { vaResul } = require('express-validator');
+const { vaResul } = require('express-validator')
 
 const camposValidar = (req,res,next)=>{
     const errors = vaResul(req);

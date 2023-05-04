@@ -11,4 +11,4 @@ const conection = async ()=>{
         throw new Error('Error al conectarse con la base de datos')
     }
 }
-module.exports = conection;
+module.exports = conection

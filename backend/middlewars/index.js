@@ -1,4 +1,4 @@
-const validar = require('../middlewars/validar');
+const validar = require('../middlewars/validar')
 
 module.exports = {
     ...validar
